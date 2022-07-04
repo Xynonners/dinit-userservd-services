@@ -3,6 +3,8 @@ Artix services for dinit-userservd (https://github.com/chimera-linux/dinit-users
 
 Artix fork of dinit-userservd located at: https://github.com/XynonWasTaken/dinit-userservd
 
+PKGBUILDs for dinit-userservd located at: https://github.com/XynonWasTaken/dinit-userservd-PKGBUILD
+
 To use these services, place them in one of the following locations:
 
 ~/.config/dinit.d/
