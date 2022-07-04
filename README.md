@@ -18,4 +18,6 @@ Run mkdir -p ~/.local/share/dinit
 This is the log directory or the services will fail to start.
 Start the services using the user dinit instance spawned by dinit-userservd.
 
-NOTE: These services are experimental and may not work correctly. Currently scripts in the scripts directory must also be placed within /etc/dinit/user/scripts and not any other location.
+NOTE: These services are experimental and may not work correctly. 
+
+NOTE: Currently scripts in the scripts directory must be placed within /etc/dinit/user/scripts and not any other location.
